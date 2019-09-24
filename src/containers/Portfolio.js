@@ -1,5 +1,5 @@
 import React from "react";
-import About from "../components/About";
+import About from "./About";
 import Experience from "../components/Experience";
 import Social from "../components/Social";
 
