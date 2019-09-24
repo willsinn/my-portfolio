@@ -19,6 +19,10 @@
 }
 .about-photo {
   width: 40%;
+  height: inherit;
+  background-image: url("./images/halfbody.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .about-headline {
   width: 40%;
